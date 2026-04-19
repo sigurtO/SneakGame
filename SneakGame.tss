@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>D:\UnityLocalGames\SneakGame\Assets\Scripts\Player\PlayerController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\UnityLocalGames\SneakGame\Assets\Scripts\Player\NoiseChannelSO.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\UnityLocalGames\SneakGame\Assets\Scripts\Player\PlayerFootStep.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\UnityLocalGames\SneakGame\Assets\Scripts\Enemy\EnemyController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\UnityLocalGames\Action RPG\Assets\Scripts\Enemy.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\UnityLocalGames\SneakGame\Assets\Scripts\Player\FootstepRadiusVisual.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\UnityLocalGames\SneakGame\Assets\Scripts\Enemy\EnemyVision.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
